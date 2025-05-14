@@ -1,1 +1,11 @@
-# controle-usuarios-produtos
+<img src="login.png" width="500">
+<img src="cadastro.png" width="500">
+<img src="esqueceu-senha.png" width="500">
+<img src="menu.png" width="500">
+<img src="usuarios.png" width="500">
+<img src="alterar-usuario.png" width="500">
+<img src="excluir-usuario.png" width="500">
+<img src="produtos.png" width="500">
+<img src="alterar-produto.png" width="500">
+<img src="excluir-produto.png" width="500">
+<img src="cadastrar-produto.png" width="500">
