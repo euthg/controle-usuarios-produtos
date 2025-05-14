@@ -1,11 +1,1 @@
-<img src="img-site-controle/login.png" width="500">
-<img src="img-site-controle/cadastro.png" width="500">
-<img src="img-site-controle/esqueceu-senha.png" width="500">
-<img src="img-site-controle/menu.png" width="500">
-<img src="img-site-controle/usuarios.png" width="500">
-<img src="img-site-controle/alterar-usuario.png" width="500">
-<img src="img-site-controle/excluir-usuario.png" width="500">
-<img src="img-site-controle/produtos.png" width="500">
-<img src="img-site-controle/alterar-produto.png" width="500">
-<img src="img-site-controle/excluir-produto.png" width="500">
-<img src="img-site-controle/cadastrar-produto.png" width="500">
+
